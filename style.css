@@ -1,0 +1,35 @@
+.Style1 {
+font-size: 40px;
+font-family: "Comic Sans MS";
+text-align: center;
+
+}
+
+#banner1{
+width: 500px; border-radius: 500%;
+}
+
+#banner1:hover{
+    border-width: 5px;
+    border-style: outset;
+border-color: blueviolet;
+
+}
+
+table,tr,th,td{
+    border-width: 2px;
+    background-color: blueviolet;
+    border-style: solid;
+
+
+}
+
+td,th{
+width: 150px;
+height: 50px;
+}
+
+#banner2{
+    width: 300px;
+}
+
